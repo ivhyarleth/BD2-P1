@@ -46,3 +46,7 @@ Primero se localiza el bucket respectivo, si no encontró el bucket, procede a b
 #### Eliminación
 
 Se localiza el buffer respectivo y se elimina dicho registro, cuando éste quede vacío, este puede ser liberado.
+
+#### Video
+
+La presentación final en video se encuentra en el siguiente [link][https://drive.google.com/file/d/1BITSe0JpOkjizn4gKW2LFWt9lRRfynvL/view?usp=sharing]
